@@ -10,8 +10,8 @@ that most can just use this one.
 
 My Virtual Env use case is to easily configure non-core Python
 libraries without modifying the site packages and without needing to
-be root. I am not trying to solve the 'project X needs this version N
-of library L' problem (since I haven't faced it yet with Python).
+be root. I am not trying to solve the 'project X needs version N of
+library L' problem (since I haven't faced it yet with Python).
 
 ###### Bibliography
 

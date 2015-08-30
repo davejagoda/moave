@@ -6,6 +6,13 @@ This is the Virtual Env that has the Python modules I use
 commonly. Instead of having a Virtual Env for each project, I find
 that most can just use this one.
 
+####### *Nota bene*
+
+My Virtual Env use case is to easily configure non-core Python
+libraries without modifying the site packages and without needing to
+be root. I am not trying to solve the 'project X needs this version N
+of library L' problem (since I haven't faced it yet with Python).
+
 ###### Bibliography
 
 http://docs.python-guide.org/en/latest/dev/virtualenvs/

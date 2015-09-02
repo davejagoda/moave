@@ -6,6 +6,17 @@ This is the Virtual Env that has the Python modules I use
 commonly. Instead of having a Virtual Env for each project, I find
 that most can just use this one.
 
+### Instructions
+
+```
+mkdir ~/Envs
+cd ~/Envs
+sudo pip install virtualenv
+virtualenv moave
+source bin/activate
+pip install -r ~/src/github/moave/requirements.txt
+```
+
 ###### *Nota bene*
 
 My Virtual Env use case is to easily configure non-core Python

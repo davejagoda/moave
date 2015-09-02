@@ -1,0 +1,10 @@
+beautifulsoup4
+html2text
+requests
+requests_oauthlib
+google-api-python-client
+gdata
+simple-salesforce
+asana
+python-linkedin
+slackclient

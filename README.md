@@ -13,6 +13,7 @@ mkdir ~/Envs
 cd ~/Envs
 sudo pip install virtualenv
 virtualenv moave
+cd moave
 source bin/activate
 pip install -r ~/src/github/moave/requirements.txt
 ```

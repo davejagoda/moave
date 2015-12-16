@@ -1,6 +1,6 @@
 # moave
 
-## **Deprecated**
+## Deprecated
 
 I do not recommend this approach any more, and have only left this is
 in place for historical purposes and for any legacy code that might

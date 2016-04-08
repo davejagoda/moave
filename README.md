@@ -28,8 +28,8 @@ that most can just use this one.
 #### Instructions
 
 ```
-mkdir ~/Envs
-cd ~/Envs
+mkdir ~/venv
+cd ~/venv
 sudo pip install virtualenv
 virtualenv moave
 cd moave

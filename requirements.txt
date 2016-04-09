@@ -5,7 +5,6 @@ requests_oauthlib
 google-api-python-client
 gdata
 simple-salesforce
-asana
 python-linkedin
 slackclient
 pymongo

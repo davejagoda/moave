@@ -1,11 +1,12 @@
 beautifulsoup4
+gdata
+google-api-python-client
 html2text
+paramiko
+pymongo
+python-linkedin
 requests
 requests_oauthlib
-google-api-python-client
-gdata
 simple-salesforce
-python-linkedin
 slackclient
-pymongo
 tweepy
